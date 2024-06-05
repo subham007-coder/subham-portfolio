@@ -247,7 +247,6 @@ export const projects = [
     member: [
       {
         name: "Subham Das",
-        img: "http://localhost:3000/static/media/HeroImage.6836186e3495a2980431.jpg",
         linkedin: "https://www.linkedin.com/in/subham-das-84130427b/",
         github: "https://github.com/subham007-coder",
       },
@@ -268,7 +267,6 @@ export const projects = [
     member: [
       {
         name: "Subham Das",
-        img: "http://localhost:3000/static/media/HeroImage.6836186e3495a2980431.jpg",
         linkedin: "https://www.linkedin.com/in/subham-das-84130427b/",
         github: "https://github.com/subham007-coder",
       },
@@ -289,7 +287,6 @@ export const projects = [
     member: [
       {
         name: "Subham Das",
-        img: "http://localhost:3000/static/media/HeroImage.6836186e3495a2980431.jpg",
         linkedin: "https://www.linkedin.com/in/subham-das-84130427b/",
         github: "https://github.com/subham007-coder",
       },
@@ -303,20 +300,26 @@ export const projects = [
       "The Airbnb Clone project aims to replicate the core functionalities of Airbnb, providing a platform where users can list, discover, and book accommodations around the world. This project will feature a user-friendly interface, comprehensive search capabilities, and secure booking processes to create a seamless experience for both hosts and guests.",
     image:
       "https://pbs.twimg.com/profile_images/1613713334796439552/Yc8U7-Kn_400x400.jpg",
-    tags: ["EJS", "CSS", "Bootstrap", "JavaScript", "NODE JS", "EXPRESS JS", "MONGO DB"],
+    tags: [
+      "EJS",
+      "CSS",
+      "Bootstrap",
+      "JavaScript",
+      "NODE JS",
+      "EXPRESS JS",
+      "MONGO DB",
+    ],
     category: "web app",
     github: "https://github.com/subham007-coder/Wanderlust",
     webapp: "https://stayday.onrender.com/",
     member: [
       {
         name: "Subham Das",
-        img: "http://localhost:3000/static/media/HeroImage.6836186e3495a2980431.jpg",
         linkedin: "https://www.linkedin.com/in/subham-das-84130427b/",
         github: "https://github.com/subham007-coder",
       },
     ],
   },
-  
 ];
 
 // export const TimeLineData = [
