@@ -247,6 +247,7 @@ export const projects = [
     member: [
       {
         name: "Subham Das",
+        img: "https://subham-portfolio-three.vercel.app/static/media/HeroImage.6836186e3495a2980431.jpg",
         linkedin: "https://www.linkedin.com/in/subham-das-84130427b/",
         github: "https://github.com/subham007-coder",
       },
@@ -267,6 +268,7 @@ export const projects = [
     member: [
       {
         name: "Subham Das",
+        img: "https://subham-portfolio-three.vercel.app/static/media/HeroImage.6836186e3495a2980431.jpg",
         linkedin: "https://www.linkedin.com/in/subham-das-84130427b/",
         github: "https://github.com/subham007-coder",
       },
@@ -287,6 +289,7 @@ export const projects = [
     member: [
       {
         name: "Subham Das",
+        img: "https://subham-portfolio-three.vercel.app/static/media/HeroImage.6836186e3495a2980431.jpg",
         linkedin: "https://www.linkedin.com/in/subham-das-84130427b/",
         github: "https://github.com/subham007-coder",
       },
@@ -315,6 +318,7 @@ export const projects = [
     member: [
       {
         name: "Subham Das",
+        img: "https://subham-portfolio-three.vercel.app/static/media/HeroImage.6836186e3495a2980431.jpg",
         linkedin: "https://www.linkedin.com/in/subham-das-84130427b/",
         github: "https://github.com/subham007-coder",
       },
